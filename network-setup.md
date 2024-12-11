@@ -8,3 +8,5 @@ ISR4331 Router0
 PC-PT PC2:210.3.14.11
 Server-PT Server1:210.3.14.12
 Server-PT Server2:210.3.14.13
+PC3:168.90.0.4
+PC4:210.3.14.14
