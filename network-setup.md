@@ -1,0 +1,10 @@
+PC-PT PC0:168.90.0.11
+PC-PT PC1:168.90.0.12
+Laptop-PT Laptop0:168.90.0.13
+Server-PT Server0:168.90.0.14
+2960-24TT Switch0
+2960-24TT Switch1
+ISR4331 Router0
+PC-PT PC2:210.3.14.11
+Server-PT Server1:210.3.14.12
+Server-PT Server2:210.3.14.13
